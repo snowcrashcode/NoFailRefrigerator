@@ -12,7 +12,7 @@ Information management is crucial for sustainable development, as it involves th
 
 ## Project Details
 
-My project NoFailRefrigerator aims to drive sustainable change in the **cold chain** space by <u>ensuring integrity of transportation and storage of temperatuere-sensitive products, which is crucial in preventing spoilage and ensuring product efficacy.</u>
+My project NoFailRefrigerator aims to drive sustainable change in the **cold chain** space by <u>ensuring integrity of transportation and storage of temperature-sensitive products, which is crucial in preventing spoilage and ensuring product efficacy.</u>
 
 ### Solution
 <u>Machine Learning for Predictive Analysis</u>
