@@ -1,0 +1,22 @@
+[
+  {
+    "channel": {
+      "name": "channelActivity",
+      "channelName": "RefrigerationChannel",
+      "next": "selectAttributesActivity"
+    }
+  },
+  {
+    "selectAttributes": {
+      "name": "selectAttributesActivity",
+      "attributes": ["temperature", "timestamp"],
+      "next": "storeActivity"
+    }
+  },
+  {
+    "datastore": {
+      "name": "storeActivity",
+      "datastoreName": "RefrigerationDataStore"
+    }
+  }
+]

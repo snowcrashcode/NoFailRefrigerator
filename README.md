@@ -2,6 +2,8 @@
 
 Project created by @snowcrashcode for the Hacknosis: Sustainble MedTech! hackathon.
 
+![Project Image](https://github.com/snowcrashcode/NoFailRefrigerator/blob/main/project-image.jpeg?raw=true)
+
 ## Overview
 
 This hackathon is about respecting the environment and stading united for the climate by driving sustainable innovation through technology.
