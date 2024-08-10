@@ -2,7 +2,7 @@
 
 Project created by @snowcrashcode for the Hacknosis: Sustainble MedTech! hackathon.
 
-![Project Image](https://github.com/snowcrashcode/NoFailRefrigerator/blob/main/project-image.jpeg?raw=true)
+![Project Image](https://github.com/snowcrashcode/NoFailRefrigerator/blob/main/project-image.jpg?raw=true)
 
 ## Overview
 
