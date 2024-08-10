@@ -10,32 +10,26 @@ This hackathon is about respecting the environment and stading united for the cl
 
 Information management is crucial for sustainable development, as it involves the <u>effective collection, storage, dissemination, and utilization of data to support decision making processes.</u>
 
-How can you ensure you have the right data and structure necessary to drive innovative change? Data quality, meta tagging structures, risk and compliance parameters and workflows are critical components to work out before actionable insights, analytics and reports can be generated.
+## Project Details
 
-Key challenges that can drive sustainable development that my project aims to tackle:
-- Data availability and access
-- Data quality and integrity
-- Data security and privacy
-- Real-time data processing and analysis
-
-## Product Details
-
-My product aims to drive sustainable change in the **cold chain** space by <u>ensuring integrity of transportation and storage of temperatuere-sensitive products, which is crucial in preventing spoilage and ensuring product efficacy.</u>
+My project NoFailRefrigerator aims to drive sustainable change in the **cold chain** space by <u>ensuring integrity of transportation and storage of temperatuere-sensitive products, which is crucial in preventing spoilage and ensuring product efficacy.</u>
 
 ### Solution
 <u>Machine Learning for Predictive Analysis</u>
-Apply ML algorithms to analyze historical and real-time data, predicting potential issues before they occur.
-- Predictive Maintenance: Use ML models to predict when refrigeration units might fail and schedule maintenance proactively.
-- Anomlay Detection: Identify unusual patterns in temperature data that might indicate a problem, such as a door being left open.
+Apply Isolation Forest ML model to analyze historical and real-time data, predicting potential issues before they occur.
+- Predictive Maintenance: Use ML model to predict when refrigeration units might fail, allowing operator to schedule maintenance proactively.
+- Anomaly Detection: Identify unusual patterns in temperature data that might indicate a problem, such as a door being left open.
 
 ### Implementation
 (Areas marked with * are developed after the hackathon)
 
+Planned tasklist
+
 1) Data Collection and Integration
-   - Gather historical and real-time data from refrigeration units, including temperature logs, maintenance records and operational parameters
-   - Integrate data from various sources to ensure comprehensive and accurate input from ML models
+   - Gather historical and real-time data from refrigeration units, including temperature logs, maintenance records and operational parameters [x]
+   - Integrate data from various sources to ensure comprehensive and accurate input from ML models [x]
 2) Machine Learning Model Development
-   - Develop predictive maintenance model using supervised learning algorithms to forecast equipment failures based on historical data.
+   - Develop predictive maintenance model using supervised learning algorithms to forecast equipment failures based on historical data. [x]
    - Implement anomaly detection models using unsupervised learning techniques to identify unusual patterns in temperature data, indicating potential issues.
 3) Real-Time Data Processing
    - Utilize edge computing to process data in real-time, ensuring tmely detection of anomalies and immediate response to potential problems.
