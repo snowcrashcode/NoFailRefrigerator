@@ -15,7 +15,7 @@ Information management is crucial for sustainable development, as it involves th
 My project NoFailRefrigerator aims to drive sustainable change in the **cold chain** space by <u>ensuring integrity of transportation and storage of temperature-sensitive products, which is crucial in preventing spoilage and ensuring product efficacy.</u>
 
 ### Solution
-<u>Machine Learning for Predictive Analysis</u>
+<u>Machine Learning for Predictive Analysis</u><br>
 Apply Isolation Forest ML model to analyze historical and real-time data, predicting potential issues before they occur.
 - Predictive Maintenance: Use ML model to predict when refrigeration units might fail, allowing operator to schedule maintenance proactively.
 - Anomaly Detection: Identify unusual patterns in temperature data that might indicate a problem, such as a door being left open.
